@@ -1,4 +1,4 @@
-# Aplikasi pengolahan data buku
+# Aplikasi pengelolaan data buku
 
 Aplikasi berbasis web untuk admin yang digunakan untuk mengolah data buku dan penulis.
 Admin dapat melakukan CRUD data buku dan penulis. Aplikasi ini juga dapat menghasilkan API
