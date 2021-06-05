@@ -54,7 +54,7 @@ php artisan ui vue --auth;
 
 ### Import Database
 
-Import database to phpmyadmin on folder importDB/daftar_buku_app.sql.
+Import database to phpmyadmin on folder `importDB/daftar_buku_app.sql`
 
 ### Setting .env
 
