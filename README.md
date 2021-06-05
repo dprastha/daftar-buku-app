@@ -34,7 +34,7 @@ Tabel Writers berelasi one to many dengan tabel Books.
 
 ---
 
-## Depedency
+## Dependency
 
 -   laravel/ui
 
