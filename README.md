@@ -75,3 +75,9 @@ Copy dari file `.env.example` dan sesuaikan dengan kebutuhan.
 ## Dokumentasi API
 
 https://documenter.getpostman.com/view/13334944/TzY4gb7m
+
+---
+
+## Demo Aplikasi
+
+https://drive.google.com/file/d/129ZFKXnvKBfN6oBWCY1K62WXLTghGhfd/view?usp=sharing
