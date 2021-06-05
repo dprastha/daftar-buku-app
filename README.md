@@ -15,22 +15,22 @@ Tabel Writers berelasi one to many dengan tabel Books.
 
 ## Screenshot Aplikasi
 
-### Halaman Writer
+### 1. Halaman Writer
 
-Terdapat kolom nama penulis, dan jumlah buku yang telah ditulis(berelasi dengan tabel buku).
-<img src="public/img/writer.png">
+-   Terdapat kolom nama penulis, dan jumlah buku yang telah ditulis(berelasi dengan tabel buku).
+    <img src="public/img/writer.png">
 
-Halaman untuk menambahkan data penulis.
-<img src="public/img/add-writer.png">
+-   Halaman untuk menambahkan data penulis.
+    <img src="public/img/add-writer.png">
 
-### Halaman Book
+### 2. Halaman Book
 
-Terdapat kolom nama gambar, judul buku, penulis(berelasi dengan tabel penulis), genre,
-jumlah halaman, dan tanggal terbit.
-<img src="public/img/book.png">
+-   Terdapat kolom nama gambar, judul buku, penulis(berelasi dengan tabel penulis), genre,
+    jumlah halaman, dan tanggal terbit.
+    <img src="public/img/book.png">
 
-Halaman untuk menambahkan data buku.
-<img src="public/img/add-book.png">
+-   Halaman untuk menambahkan data buku.
+    <img src="public/img/add-book.png">
 
 ---
 
@@ -38,11 +38,11 @@ Halaman untuk menambahkan data buku.
 
 ## laravel/ui
 
-`
+```
 composer require laravel/ui --dev;
 
 php artisan ui vue --auth;
-`
+```
 
 ---
 
