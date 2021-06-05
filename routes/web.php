@@ -20,5 +20,3 @@ Route::resource('writer', WriterController::class);
 Route::resource('book', BookController::class);
 
 Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
