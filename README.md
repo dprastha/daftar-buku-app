@@ -36,7 +36,7 @@ Tabel Writers berelasi one to many dengan tabel Books.
 
 ## Depedency
 
-### + laravel/ui
+-   laravel/ui
 
 ```
 composer require laravel/ui --dev;
