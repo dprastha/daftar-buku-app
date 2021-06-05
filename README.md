@@ -44,6 +44,12 @@ composer require laravel/ui --dev;
 php artisan ui vue --auth;
 ```
 
+-   Sanctum
+
+```
+composer require laravel/sanctum
+```
+
 ---
 
 ## Jika ingin mengembangkan project ini
