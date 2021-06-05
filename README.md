@@ -17,20 +17,20 @@ Tabel Writers berelasi one to many dengan tabel Books.
 
 ### Halaman Writer
 
-<img src="public/img/writer.png">
 Terdapat kolom nama penulis, dan jumlah buku yang telah ditulis(berelasi dengan tabel buku).
+<img src="public/img/writer.png">
 
-<img src="public/img/add-writer.png">
 Halaman untuk menambahkan data penulis.
+<img src="public/img/add-writer.png">
 
 ### Halaman Book
 
-<img src="public/img/book.png">
 Terdapat kolom nama gambar, judul buku, penulis(berelasi dengan tabel penulis), genre,
 jumlah halaman, dan tanggal terbit.
+<img src="public/img/book.png">
 
-<img src="public/img/add-book.png">
 Halaman untuk menambahkan data buku.
+<img src="public/img/add-book.png">
 
 ---
 
