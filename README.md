@@ -8,8 +8,8 @@ dari data yang telah diinputkan.
 
 ## Desain Database
 
-<img src="public/img/erd.png">
 Tabel Writers berelasi one to many dengan tabel Books.
+<img src="public/img/erd.png">
 
 ---
 
@@ -36,7 +36,7 @@ Tabel Writers berelasi one to many dengan tabel Books.
 
 ## Depedency
 
-## laravel/ui
+### + laravel/ui
 
 ```
 composer require laravel/ui --dev;
